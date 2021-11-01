@@ -1,11 +1,11 @@
 Note:
-The clean-ness in this code has been complemented by many, Have look now at that now will ya (:
+The clean-ness of this code has been complemented by many, Have a look at that now will ya (:
 
 # socket-group-chat-py
 
-Zero dependencies, to start
+Zero dependencies, to start <br />
 ```python3 chat_server.py```
 
-This starts a multi-threaded chat server which has groups, users can join a group and chat with each other.
+This starts a multi-threaded chat server that has dynamic groups, users can join a group and chat with each other.
 The user is expected to have a telnet interface.
 
